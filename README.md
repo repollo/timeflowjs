@@ -1,3 +1,3 @@
-# TimeFlowJs
+# TimeFlowJS
 
 ### Coming soon
